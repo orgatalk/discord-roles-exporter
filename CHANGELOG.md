@@ -1,6 +1,9 @@
 # Changelog
 
 
+## 0.7.0 (unreleased)
+
+
 ## 0.6.0 (2025-03-10)
 
 - Renamed crate, resulting binary file, and repository to
