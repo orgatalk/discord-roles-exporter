@@ -99,7 +99,7 @@ HTML and text templates.
 
 ## License
 
-This program is licensed under the MIT license.
+This software is licensed under the MIT license.
 
 
 ## Author
