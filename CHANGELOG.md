@@ -11,6 +11,8 @@
 
 - Updated clap to v4.6.7.
 
+- Updated multimap to v0.10.1.
+
 
 ## 0.6.0 (2025-03-10)
 
