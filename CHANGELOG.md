@@ -5,6 +5,8 @@
 
 - Raised minimum supported Rust version to 1.99.0.
 
+- Updated anyhow to v1.0.104.
+
 
 ## 0.6.0 (2025-03-10)
 
