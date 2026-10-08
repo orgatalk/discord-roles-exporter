@@ -3,6 +3,8 @@
 
 ## 0.7.0 (unreleased)
 
+- Raised minimum supported Rust version to 1.99.0.
+
 
 ## 0.6.0 (2025-03-10)
 
