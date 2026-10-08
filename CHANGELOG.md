@@ -13,6 +13,8 @@
 
 - Updated multimap to v0.10.1.
 
+- Updated toml to v1.1.7.
+
 
 ## 0.6.0 (2025-03-10)
 
