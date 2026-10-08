@@ -7,6 +7,8 @@
 
 - Updated anyhow to v1.0.104.
 
+- Updated chrono to v0.4.45.
+
 
 ## 0.6.0 (2025-03-10)
 
