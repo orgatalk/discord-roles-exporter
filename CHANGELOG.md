@@ -13,6 +13,8 @@
 
 - Updated multimap to v0.10.1.
 
+- Updated Tera to v1.20.1.
+
 - Updated toml to v1.1.7.
 
 
