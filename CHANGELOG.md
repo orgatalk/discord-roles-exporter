@@ -19,6 +19,8 @@
 
 - Updated ureq to v3.4.2.
 
+- Updated transitive dependencies to fix security issues.
+
 
 ## 0.6.0 (2025-03-10)
 
